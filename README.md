@@ -88,4 +88,4 @@ Course: IST3134 Big Data Analytics
 
 Assessment: Group Assignment
 
-Semester: May Semester 2026
+

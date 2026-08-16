@@ -1,0 +1,17 @@
+# Large Steam dataset
+steam_reviews.csv
+
+# Jupyter temporary folder
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Spark temporary folders
+spark-warehouse/
+metastore_db/
+
+# Private files
+kaggle.json
+.env
